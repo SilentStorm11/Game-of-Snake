@@ -1,0 +1,40 @@
+﻿  Source.cpp
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(54): warning C4101: 'tipka': unreferenced local variable
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(93): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(95): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(104): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(76): warning C4101: 'i': unreferenced local variable
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(152): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(153): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(175): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(195): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(244): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(279): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(302): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(391): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(396): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(403): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(404): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(415): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(422): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\time.h(475): note: see declaration of 'ctime'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(432): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\silentstorm1\documents\visual studio 2017\projects\snake the game\snake the game\source.cpp(435): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  Snake The Game.vcxproj -> c:\users\silentstorm1\documents\visual studio 2017\Projects\Snake The Game\Debug\Snake The Game.exe
+  Snake The Game.vcxproj -> c:\users\silentstorm1\documents\visual studio 2017\Projects\Snake The Game\Debug\Snake The Game.pdb (Partial PDB)
